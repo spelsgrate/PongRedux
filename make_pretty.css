@@ -1,0 +1,15 @@
+#plane{
+    border: 5px solid red;
+}
+
+.paddle{
+    fill: azure;
+    stroke: lightsteelblue;
+    stroke-width: 1;
+}
+
+.circle {
+    fill: azure;
+    stroke: lightsteelblue;
+    stroke-width: 1;
+}
